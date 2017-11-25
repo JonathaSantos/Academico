@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Layout.master.cs" Inherits="WebAppPosto.Layout" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Posto de Combustível ABC</title>
+    <link href="Estilo.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <h1>Logo</h1>
+        </header>
+        <div id="conteudo">
+            Ola mundo...
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                <asp:GridView ID="GridView1" runat="server" DataSourceID="ObjectDataSource1">
+                </asp:GridView>
+                <asp:ObjectDataSource ID="ObjectDataSource1" runat="server"></asp:ObjectDataSource>
+        
+            </asp:ContentPlaceHolder>
+        </div>
+        <footer>
+
+        </footer>
+    </form>
+</body>
+</html>

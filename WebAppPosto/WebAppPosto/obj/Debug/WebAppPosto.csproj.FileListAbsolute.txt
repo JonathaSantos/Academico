@@ -1,0 +1,27 @@
+C:\Temp\PostoCombustivel\WebAppPosto\WebAppPosto\bin\WebAppPosto.dll
+C:\Temp\PostoCombustivel\WebAppPosto\WebAppPosto\bin\WebAppPosto.pdb
+C:\Temp\PostoCombustivel\WebAppPosto\WebAppPosto\obj\Debug\WebAppPosto.dll
+C:\Temp\PostoCombustivel\WebAppPosto\WebAppPosto\obj\Debug\WebAppPosto.pdb
+C:\Users\9701097\Downloads\WebAppPosto\WebAppPosto\bin\WebAppPosto.dll.config
+C:\Users\9701097\Downloads\WebAppPosto\WebAppPosto\bin\WebAppPosto.dll
+C:\Users\9701097\Downloads\WebAppPosto\WebAppPosto\bin\WebAppPosto.pdb
+C:\Users\9701097\Downloads\WebAppPosto\WebAppPosto\obj\Debug\WebAppPosto.csprojResolveAssemblyReference.cache
+C:\Users\9701097\Downloads\WebAppPosto\WebAppPosto\obj\Debug\WebAppPosto.dll
+C:\Users\9701097\Downloads\WebAppPosto\WebAppPosto\obj\Debug\WebAppPosto.pdb
+C:\Users\MILTON\Downloads\unidade3\PostoAdoNet\WebAppPosto\WebAppPosto\bin\WebAppPosto.dll.config
+C:\Users\MILTON\Downloads\unidade3\PostoAdoNet\WebAppPosto\WebAppPosto\bin\WebAppPosto.dll
+C:\Users\MILTON\Downloads\unidade3\PostoAdoNet\WebAppPosto\WebAppPosto\bin\WebAppPosto.pdb
+C:\Users\MILTON\Downloads\unidade3\PostoAdoNet\WebAppPosto\WebAppPosto\obj\Debug\WebAppPosto.csprojResolveAssemblyReference.cache
+C:\Users\MILTON\Downloads\unidade3\PostoAdoNet\WebAppPosto\WebAppPosto\obj\Debug\WebAppPosto.dll
+C:\Users\MILTON\Downloads\unidade3\PostoAdoNet\WebAppPosto\WebAppPosto\obj\Debug\WebAppPosto.pdb
+C:\Users\13104030.ACAD\Downloads\PostoAdoNet (2)\PostoAdoNet\WebAppPosto\WebAppPosto\obj\Debug\WebAppPosto.dll
+C:\Users\13104030.ACAD\Downloads\PostoAdoNet (2)\PostoAdoNet\WebAppPosto\WebAppPosto\obj\Debug\WebAppPosto.pdb
+C:\Users\13104030.ACAD\Downloads\PostoAdoNet (2)\PostoAdoNet\WebAppPosto\WebAppPosto\bin\WebAppPosto.dll.config
+C:\Users\13104030.ACAD\Downloads\PostoAdoNet (2)\PostoAdoNet\WebAppPosto\WebAppPosto\bin\WebAppPosto.dll
+C:\Users\13104030.ACAD\Downloads\PostoAdoNet (2)\PostoAdoNet\WebAppPosto\WebAppPosto\bin\WebAppPosto.pdb
+C:\Users\13104030.ACAD\Downloads\PostoAdoNet (2)\PostoAdoNet\WebAppPosto\WebAppPosto\obj\Debug\WebAppPosto.csprojResolveAssemblyReference.cache
+C:\Users\13104030.ACAD\Downloads\ASP NET\PostoAdoNet (3) (1)\PostoAdoNet (2)\PostoAdoNet\WebAppPosto\WebAppPosto\obj\Debug\WebAppPosto.dll
+C:\Users\13104030.ACAD\Downloads\ASP NET\PostoAdoNet (3) (1)\PostoAdoNet (2)\PostoAdoNet\WebAppPosto\WebAppPosto\bin\WebAppPosto.dll.config
+C:\Users\13104030.ACAD\Downloads\ASP NET\PostoAdoNet (3) (1)\PostoAdoNet (2)\PostoAdoNet\WebAppPosto\WebAppPosto\bin\WebAppPosto.dll
+C:\Users\13104030.ACAD\Downloads\ASP NET\PostoAdoNet (3) (1)\PostoAdoNet (2)\PostoAdoNet\WebAppPosto\WebAppPosto\bin\WebAppPosto.pdb
+C:\Users\13104030.ACAD\Downloads\ASP NET\PostoAdoNet (3) (1)\PostoAdoNet (2)\PostoAdoNet\WebAppPosto\WebAppPosto\obj\Debug\WebAppPosto.pdb
